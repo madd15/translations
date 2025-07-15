@@ -1,0 +1,44 @@
+{
+  "common": {
+    "cancel": "Atšaukti",
+    "confirm": "Patvirtinti",
+    "submit": "Pateikti",
+    "close": "Užverti"
+  },
+  "alert": {
+    "header": "Įspėjimas",
+    "content": "Ar tikrai norite tęsti?"
+  },
+  "input": {
+    "title": "Įvesties langas",
+    "selectOption": "Pasirinkite parinktį",
+    "selectOptions": "Pasirinkite parinktis",
+    "searchPlaceholder": "Ieškoti...",
+    "noOptionsFound": "Parinkčių nerasta",
+    "toggleOn": "Įjungta",
+    "toggleOff": "Išjungta",
+    "validation": {
+      "required": "%s yra privalomas",
+      "minLength": "%s turi būti ne trumpesnis nei %s simboliai",
+      "maxLength": "%s turi būti ne ilgesnis nei %s simboliai",
+      "minValue": "%s turi būti bent %s",
+      "maxValue": "%s turi būti ne daugiau nei %s",
+      "maxSelections": "%s turi turėti ne daugiau nei %s pasirinkimus"
+    }
+  },
+  "menu": {
+    "close": "Paspauskite %s, kad uždarytumėte",
+    "select": "Prašome pasirinkti parinktį"
+  },
+  "progressbar": {
+    "cancel": "Paspauskite %s, kad atšauktumėte"
+  },
+  "skillcheck": {
+    "title": "Įgūdžių patikrinimas",
+    "instructions": "Instrukcijos",
+    "instructionText": "Paspauskite %s, kai %s pasieks %s",
+    "redLine": "raudona linija",
+    "greenZone": "žalia zona",
+    "hint": "Laikas yra svarbus..."
+  }
+}
